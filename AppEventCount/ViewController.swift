@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  AppEventCount
 //
-//  Created by Evgeniy Ryshkov on 17.03.2018.
+//  Created by Evgeniy Ryshkov on 17.03.2018.=
 //  Copyright © 2018 Evgeniy Ryshkov. All rights reserved.
 //
 
